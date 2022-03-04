@@ -1,1 +1,4 @@
-Exercise on Shell, permissions.
+Exercise on Shell
+ ✔ Basics
+ ✔ Permissions
+ ✔ I/O Redirections and filters
