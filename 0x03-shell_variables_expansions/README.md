@@ -32,4 +32,4 @@ File 101-rot13 is a script that encodes and decodes text using the rot13 encrypt
 
 File 102-odd is a script that prints every other line from the input, starting with the first line.
 
-File 103-water_and_stir is a shell script that adds the two numbers stored in the environment variables WATER and STIR and prints the result.
+File 103-water_and_stir is a script that adds the two numbers stored in the environment variables WATER and STIR and prints the result.
